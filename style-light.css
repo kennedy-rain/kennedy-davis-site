@@ -40,8 +40,9 @@ h3 {
 }
 
 .topic-nav a:hover {
-  color: #fffffe;
-  border-bottom: 3px solid #fffffe;
+  color: #172C66;
+  border-bottom: 3px solid #172C66;
+  transition: ease-in 300ms;
 }
 
 /* About me */
@@ -80,8 +81,8 @@ h3 {
 
   /* Change the color of links on hover */
   .topnav a:hover {
-    transition: .15s ease-in;
-    color: #fffffe;
+    transition: 300ms ease-in;
+    color: #F582AE;
   }
 
   /* Add a color to the active/current link */
