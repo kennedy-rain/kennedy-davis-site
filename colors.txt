@@ -1,0 +1,24 @@
+SITE THEME:
+
+
+Background
+#faeee7
+Headline
+#33272a
+Paragraph
+#594a4e
+Button
+#ff8ba7
+Button text
+#33272a
+Illustration
+Stroke
+#33272a
+Main
+#fffffe
+Highlight
+#ff8ba7
+Secondary
+#ffc6c7
+Tertiary
+#c3f0ca
